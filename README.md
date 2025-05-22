@@ -1,3 +1,3 @@
 # VorgonMod
 
-See [LICENSE](LICENSE)
+See [LICENSE](LICENSE.md)
